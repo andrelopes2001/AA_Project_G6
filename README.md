@@ -1,5 +1,12 @@
 # Advanced Automation Project Structure
 
+Members of the Group:
+- Álvaro Coiteiro Lopes: 96148
+- André Filipe Brás Lopes: 96351
+- João Manuel Ramos Oliveira: 96403
+- Miguel Heitor Valverde: 96455
+
+
 *A logical, reasonably standardized, but flexible project structure for doing and sharing work. (based on [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/))*
 
 This repository contains the base structure for Advanced Automation project. In a near future, your thesis can also use this structure to make your work available for contributions from other authors. 
